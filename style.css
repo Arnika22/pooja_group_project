@@ -1,0 +1,141 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.navbar{
+    position: fixed;
+    width: 100vw;
+}
+
+.bar{
+    height: 20vh;
+    width: 100vw;
+    border: 2px solid blue;
+}
+img{
+    height: 80vh;
+    width: 60vw;
+}
+.container1{
+    display: flex;
+}
+.heading{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.na{
+    color: rgb(90, 90, 231)
+}
+.new{
+    background-color: rgb(90, 90, 231);
+    color: white;
+
+}
+
+.navgurukul{
+    text-align: center;
+}
+.cam{
+    display: flex;
+}
+.campuses{
+    height: 300px;
+    width: 300px;
+}
+
+.dseu{
+    height: 300px;
+    width: 300px;
+}
+
+/* campuses */
+.container{
+    height: 100vh;
+    width: 100vw;
+    /* background-image: linear-gradient(rgb(194, 81, 81), yellow); */
+      
+      
+}
+
+
+
+.container-box{
+    height: 50rem;
+    width:80rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.box{
+    height:22rem;
+    width:20rem;
+    background-color: linear-gradient(rgb(194, 81, 81), yellow);
+    border: 2px solid royalblue;
+    border-radius: 12px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    
+    
+
+}
+.box:hover{
+    transform: scale(1.05);
+
+}
+
+h{
+   font-size: 3rem;
+   color: aliceblue;
+   display: flex;
+   justify-content: center;
+   padding:10px;
+   font-weight: bold;
+
+}
+.box img{
+    height:12rem;
+    width: 12rem;
+    padding: 50px;
+    margin-top: 10px;
+}
+.box p{
+    font-size:larger;
+    padding: 10px;
+
+}
+.box button{
+    color: aliceblue;
+    background-color: black;
+    padding: 5px;
+    margin-top: 10px;
+    width: 10rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.box h1{
+    font-size: 2rem;
+    
+}
+
+h1{
+    text-align: center;
+}
+.btn2{
+    background-color:black;
+    color:white;
+    border-radius: 6px;
+    height: 35px;
+    width: 95px;
+}
+
+.image{
+    height: 8vh;
+    width: 15vw;
+    margin: auto;
+    padding: auto;
+}

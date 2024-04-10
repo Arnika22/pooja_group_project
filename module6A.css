@@ -1,0 +1,15 @@
+.vh{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.lg{
+    margin-left: 40px;
+}
+.lpp{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 800px;
+    height: auto;
+}

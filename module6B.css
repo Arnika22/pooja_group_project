@@ -1,0 +1,30 @@
+.kii{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.hii{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+;mj{
+    margin-left: 40px;
+}
+
+.khu{
+    margin-left: 20px;
+}
+*{
+    padding: 0;
+    margin: 0;
+ 
+    box-sizing: border-box;
+}
+.pvv{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    width: 800px;
+    height: auto;
+}
